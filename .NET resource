@@ -1,0 +1,89 @@
+
+Constient Global Solutions Inc.
+CGS_DOT NET DEVELOPER
+Software Developer with 4+ years of experience in Requirement, Analysis, design and execution using Microsoft technologies.
+Compatible team player with complete project life cycle including requirement definition, proto typing ,proof of concept, design, interface implementation, testing and maintenance.
+
+Professional Experience
+
+Current Employer
+Constient Global Solutions Inc. Feb 2013 –Till Date.
+Senior Software Engineer
+
+Managing .net development projects in e-Commerce, Electronic Menu Management Information System(EMMIS), Content Management System (CMS) and Single Sign On Using Identity Server.
+
+Previous Employer
+XXX pvt ltd  Dec 2008 – Dec 2012.
+Software Developer
+Manage .net development projects in Marketing Domain, Shipping Domain, Web-enabled Integrated Management systems and Value added service like VSTO Add-In.
+
+Projects Handled
+OSCID
+OscId is a light-weight security token service built using .NET 4.5, ASP.NET MVC4, WCF and Web API. It has out-of-the-box support for user management using the ASP.NET membership and roles provider, but provides extensibility points to integrate arbitrary user databases. Various protocols like simpleHTTP, OAuth, WsTrust handles requests, make use of the OscId engine for token issuance and emit the corresponding response. Protocol support can be extended by adding new implementations to the host and using the common engine for the heavy lifting. The core runtime takes care of enforcing security policy and token issuance whereas the data repositories abstract the underlying user and configuration store. By providing custom implementations of these repositories, OscId can be adapted to arbitrary user management and configuration systems.
+Environment : ASP.NET4.0/4.5, Microsoft Visual Studio. NET 2012, C#, SQL
+Server 2012, IIS 7.0.
+
+Constient Global Solutions 
+MRM Dynamics
+“Dynamics” meets the strategic objectives of MRM (Marketing Resource Application) which includes Web content management, Asset management, Workflow management, automation of financial transactions and authorization at different levels and delivers unmatched business value to the customers through a combination of process excellence, quality frameworks and service delivery innovation with multilingual support, developed in Microsoft platform using .Net with web part controls.
+ Used N-tier architecture for presentation layer, Business and Data Access Layers and were coded using C#.
+ Used Telerik web controls to Create dynamic user pages using web parts.
+ Written stored procedures, triggers using SQL in SQL SERVER 2005/2008.
+ Developed Web Forms using C#, ASP.NET and Used AJAX in some web forms.
+ Worked on Cascading Style Sheets and XML-Schemas.
+ Created Schedulers and triggers for sending Emails to clients after any kind of transaction has been made.
+ Deployment of Application on Test and Production Server and handled many production issues and enhancement to the existing live portals.
+ Responsible for validations in front-end interface and designing the controllers.
+ Providing Database, Spreadsheet & Web Technology expertise to assist teams with local initiatives where appropriate.
+Clients : 3M ,Citroen,TNO,Opel,Tauw & etc..
+Environment : ASP.NET3.5, Microsoft Visual Studio. NET 2005, Telerik, IBatis
+HTML, C#, Web Services, SQL Server 2008, .NET Framework 3.5
+
+PCL
+This is a comprehensive Container Leasing and Asset Management package aimed at the Marine Container Leasing Business. It covers the Pricing Module of the Business. Logistics events record all operating information for the assets and trading partners. Notable modules are Manage Port, Manage Slot, Rate Request and Approved Services, Exchange Rate, Trade Partner (like Customer, Depot, Port, Surveyor) Data, Booking, Redelivery, Repo management. Billing to Customer (Lessee) and other trade partners can be done in various customizable formats. Form based authentication helps secure accessibility and Rate Request Add In helps the trade partners to access the data without
+disturbing the Application.
+ Responsible for analysis, design, implementation and deployment of code using C#.
+ Implementing Unit Testing and developed Cascading Style Sheets (CSS) for User Interface uniformity.
+ Developed and consumed Web Services for VSTO AddIns.
+ Deployment of Application on Test and Production Server and handled many production issues and enhancement to the existing live portals
+ Remote support for the client post implementation
+
+Constient Global Solutions 
+Client : Perma Container (UK) Line Ltd / permacontainerline.com
+Environment : ASP.NET2.0, ADO.NET, Microsoft Visual Stuidio.NET 2005, IIS V5.1,HTML, MySQL, .NET Framework 2.0.
+
+HR Dynamics
+HR Dynamics can run as Client/Server and in Web Environment. It is scalable to meet the needs of any size of the organization and easy to customize due to extensive parameterization to support definition of business rules outside the application. It enables the users to define the Business Rules outside the application and share data, which users are authorized to access. Therefore changes to the Business Rules due to Internal or External reasons can be incorporated without the need of modification to the software application. Its main modules are Portal Management, Dashboard, HR Operations, Recruitment, Communication, Compensation, Training & Development, Administrative HRM, Emp/Manager Self-Service, Emp Information Management, Payroll and Performance Appraisal System.
+ Responsible for analysis, design, implementation and deployment of code using C#.
+ Developed WCF Services and Consumed in Silverlight Application.
+ Wrote triggers for sending Emails to clients after any kind of transaction has been made.
+ Written stored procedures, triggers using SQL in SQL SERVER 2005.
+ Creating Reports using Crystal Reports.
+
+Client : Caravel Logistics pvt Ltd.
+Environment : .Net3.5, Silverlight#, WCF, Crystal Reports, SQL Server 2005, IBatis
+AMS
+Attendance Management system (AMS) will provide easy data capturing and posting of Attendance for the faculty members. At the same time AMS will provide better tracking of students' attendance and enable better planning and strategy to the top Management. Where we provide better faculty management and class management for the middle management such as head of the departments, group head,Faculties, Students etc…. Further, this project has other important features for Attendance Domain like Master Pages, Manage Session and Student Batch. This application provides authorization Role based access level to various users.
+Client : School Of Finance and Banking, Rwanda / sfb.ac.rw
+Environment : ASP.NET2.0, ADO.NET, Microsoft Visual Stuidio.NET 2005, IIS V5.1,
+HTML, SQL Server 2005, .NET Framework 2.0.
+
+Dynamic Reports
+Constient Global Solutions
+Dynamic Reports is a set of Components aimed at Creating Data Analysis System. It Consists of Data Storage, Report Generator, Report Generation Templates, Data View Creator, Existing View acceptance Modules. The data storage contains the data that is loaded into the databases trough the descendants of Table Data Set. During Start up the data is processed and the structure that is most suitable for future analysis. It is possible to create an alias for Business Objects and Business Object Properties that will use further on. There is an Option for creating ready-made Reports from Templates. Such templates called Web parts Report Controls. Reports Settings for specific Control were Collected and Maintained for specific Users. There is an option for filtering out the data by field values. Entries containing the values specified by the user may be excluded or included from the data for analysis. A filter may be set for any field loaded from the original set. It is possible to perform all statistic operations with the numeric fields of the indicators.
+
+Clients : Paragon – Netherlands
+Environment : ASP.NET, ADO.NET, HTML, JavaScript, SQL Server 2005, .NET 2.0.
+
+Jesus Calls
+
+It is an End to End solution platform ensures that various stakeholders are able to communicate to one another through various channels and the Donors can interact and view their details directly with the system. Its consists of 23 modules which covers Family Card system to Balance Sheet Generation.
+
+Client : www.JesusCalls.org
+
+Environment : .Net 3.5, Silverlight, WCF, IBatis, Oracle 9i,
+
+Achievements
+ Played an active role in the successful completion of Achmea Instance, Netherlands.
+ Played an active role in the successful completion of Citroen Instance, Netherlands.
+ Entitled to do Phase 2 Invoice Automation Project after the successful completion of Phase 1 which we did for Archway,Italy.
